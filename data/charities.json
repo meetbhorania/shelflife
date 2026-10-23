@@ -1,0 +1,6 @@
+[
+  {"id": "c1", "name": "Hackney Community Larder", "lat": 51.5450, "lon": -0.0553, "accepts": ["bakery", "fresh", "dairy"], "collection_slots": ["18:00", "19:00"], "contact": "larder@example.org"},
+  {"id": "c2", "name": "Shoreditch Night Shelter", "lat": 51.5265, "lon": -0.0780, "accepts": ["ready-meal", "bakery"], "collection_slots": ["17:30", "20:00"], "contact": "kitchen@example.org"},
+  {"id": "c3", "name": "Islington Food Bank", "lat": 51.5362, "lon": -0.1030, "accepts": ["dairy", "fresh"], "collection_slots": ["09:00"], "contact": "hello@example.org"},
+  {"id": "c4", "name": "Walthamstow Soup Run", "lat": 51.5830, "lon": -0.0200, "accepts": ["ready-meal"], "collection_slots": ["18:30"], "contact": "run@example.org"}
+]
